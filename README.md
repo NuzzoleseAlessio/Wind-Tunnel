@@ -1,5 +1,7 @@
 # Wind Tunnel Prototype & CFD Simulation
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white)
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 This repository contains the CAD models, CFD simulation data, and technical documentation for a desktop-scale wind tunnel prototype. The system is designed to generate a controlled, laminar airflow for aerodynamic testing, utilizing a standard vacuum cleaner as the primary flow inducer.
 
