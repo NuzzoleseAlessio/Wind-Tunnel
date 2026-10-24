@@ -1,4 +1,5 @@
 # Wind Tunnel Prototype & CFD Simulation
+![CFD FloXpress](https://img.shields.io/badge/CFD_FloXpress-005183?style=for-the-badge)
 
 This repository contains the CAD models, CFD simulation data, and technical documentation for a desktop-scale wind tunnel prototype. The system is designed to generate a controlled, laminar airflow for aerodynamic testing, utilizing a standard vacuum cleaner as the primary flow inducer.
 
